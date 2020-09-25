@@ -12,3 +12,7 @@ header{background:#b0b0b0; height:600px;}
     display: block;
     padding-bottom: 100%;
   }
+
+  footer{
+      background: #000;;
+  }
